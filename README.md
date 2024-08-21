@@ -1,4 +1,4 @@
-# About
+# Iran Advertisement Numbers
 A database of phone numbers used for SMS advertisement in Iran.
 
 ## Advertisement Type
